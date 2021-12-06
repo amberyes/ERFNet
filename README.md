@@ -82,14 +82,14 @@ Trained_models are available at baidudrive: https://pan.baidu.com/s/goodmodel wi
 #### Samples
 
 <p align='center'>
-<img src="fig/70.bmp" height="306px" width='413px'> 
-<img src='fig/70_test.bmp' height="306px" width='413px' >
+<img src="fig/70.bmp" height="306px" width='200px'> 
+<img src='fig/70_test.bmp' height="306px" width='200px' >
 
 </div>
 
 <p align='center'>
-<img src='fig/99.bmp' height="606px" width='413px'> 
-<img src='fig/99_test.bmp' height="606px" width='413px' >
+<img src='fig/99.bmp' height="200px" width='400px'> 
+<img src='fig/99_test.bmp' height="200px" width='400px' >
 
 </div>
 
